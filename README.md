@@ -10,6 +10,6 @@ Hey, I'm Vitalii 👋
 🏋️‍♂️🏃‍♂️🐶🎮🍳🌍
 
 ---
+![Stats](https://github-readme-stats.vercel.app/api?username=lundaevv&show_icons=true&theme=transparent)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lundaevv)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lundaevv)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lundaevv&theme=tokyonight&background=00000000)
