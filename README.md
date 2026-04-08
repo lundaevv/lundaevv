@@ -7,9 +7,11 @@ Hey, I'm Vitalii 👋
 ⚙️ Full-stack development, backend and systems programming  
 🐝 Hive Helsinki (42 Network)  
 📫 [Email](mailto:lundaevvitaly@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vitalilund/)  
+
 🏋️‍♂️🏃‍♂️🐶🎮🍳🌍
 
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=lundaevv&show_icons=true&theme=transparent)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lundaevv&theme=tokyonight&background=00000000)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lundaevv&theme=tokyonight&background=00000000" />
+</p>
