@@ -1,16 +1,12 @@
-![Banner](./assets/banner.png)
+Hey, I'm Vitali 👋
 
-Hey, I'm Vitalii 👋
-
-💻 C / C++ developer moving into full-stack (React, Node.js)  
-🧠 5 years in sustainability & energy transition research (materials, systems), multiple publications  
-⚙️ Full-stack development, backend and systems programming  
-🐝 Hive Helsinki (42 Network)  
+💻 C / C++ (Hive Helsinki) and building full-stack skills (React, Node.js, TypeScript, React Native, SQL)
+🧠 Background in sustainability & energy transition research, multiple publications  
+⚙️ Interested in full-stack and backend development  
+🐝 [Hive Helsinki (42 Network)](https://www.hive.fi/)  
 📫 [Email](mailto:lundaevvitaly@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vitalilund/)  
 
 🏋️‍♂️🏃‍♂️🐶🎮🍳🌍
-
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lundaevv&theme=tokyonight&background=00000000" />
