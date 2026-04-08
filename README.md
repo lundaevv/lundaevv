@@ -1,6 +1,9 @@
+![Banner](./assets/banner.png)
+
 Hey, I'm Vitali 👋
 
-💻 C / C++ (Hive Helsinki) and building full-stack skills (React, Node.js, TypeScript, React Native, SQL)
+💻 C / C++ programmer  
+🌐 Building full-stack skills (React, Node.js, TypeScript, React Native, SQL)
 🧠 Background in sustainability & energy transition research, multiple publications  
 ⚙️ Interested in full-stack and backend development  
 🐝 [Hive Helsinki (42 Network)](https://www.hive.fi/)  
