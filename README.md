@@ -10,9 +10,3 @@ Hey, I'm Vitali 👋
 📫 [Email](mailto:lundaevvitaly@gmail.com) | [LinkedIn](https://www.linkedin.com/in/vitalilund/)  
 
 🏋️‍♂️🏃‍♂️🐶🎮🍳🌍
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lundaevv&theme=tokyonight&background=00000000" />
-</p>
