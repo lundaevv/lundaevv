@@ -6,16 +6,16 @@
 
 <p align="center">
   <b>Backend Developer</b><br/>
-  Helsinki, Finland &nbsp;·&nbsp; Barcelona, Spain
+  Helsinki, Finland / Barcelona, Spain
 </p>
 
 <p align="center">
   <a href="mailto:vitalilund@gmail.com">
-    <img src="https://img.shields.io/badge/-vitalilund@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/vitalilund@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/vitalilund/">
-    <img src="https://img.shields.io/badge/-Vitali%20Lund-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vitali%20Lund-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -23,9 +23,9 @@
 
 ### About me
 
-My background is unconventional — I've moved countries, changed careers, and rebuilt myself in a completely new field. That means I adapt fast, learn fast, and I'm not afraid of starting from zero.
+My background is unconventional. I've moved countries, changed careers, and rebuilt myself in a completely new field. That means I adapt fast, learn fast, and I'm not afraid of starting from zero.
 
-I'm people-oriented: I connect with others quickly, bring positive energy into a team, and genuinely enjoy collaboration. I have a strong sense of humour, but I also know when to stay focused. People feel comfortable working with me — both professionally and on a human level.
+I'm people-oriented: I connect with others quickly, bring positive energy into a team, and genuinely enjoy collaboration. I have a strong sense of humour, but I also know when to stay focused. People feel comfortable working with me, both professionally and on a human level.
 
 Currently building backend systems with Python and TypeScript, with low-level foundations in C/C++ from [Hive Helsinki (42 Network)](https://www.hive.fi/). Before that: sustainability research, multiple publications, a different life.
 
@@ -55,7 +55,7 @@ Currently building backend systems with Python and TypeScript, with low-level fo
 
 ### Outside of code
 
-Sport · snowboard · food · travel — usually all four at once.
+Sport / snowboard / food / travel, usually all four at once.
 
 ---
 
