@@ -15,7 +15,7 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/vitalilund/">
-    <img src="https://img.shields.io/badge/Vitali%20Lund-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vitali%20Lund-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -51,14 +51,3 @@ Currently building backend systems with Python and TypeScript, with low-level fo
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
----
-
-### Outside of code
-
-Sport / snowboard / food / travel, usually all four at once.
-
----
-
-<p align="center">
-  <img alt="visitors" src="https://komarev.com/ghpvc/?username=lundaevv&color=blue&style=flat&label=visitors" />
-</p>
