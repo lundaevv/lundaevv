@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lundaevvitaly@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lundaevvitaly%40gmail.com-blue?style=for-the-badge&logo=gmail" />
+  <a href="mailto:vitalilund@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vitalilund%40gmail.com-blue?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/vitalilund/">
     <img src="https://img.shields.io/badge/LinkedIn-Vitali%20Lund-0A66C2?style=for-the-badge&logo=linkedin" />
