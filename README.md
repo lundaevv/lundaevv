@@ -4,10 +4,9 @@
 
 <h1 align="center">Hi, I'm Vitali Lund</h1>
 
-<p align="center">
-  <b>Backend Developer</b><br/>
-  Helsinki, Finland / Barcelona, Spain
-</p>
+<h3 align="center">Backend Developer</h3>
+
+<p align="center">Helsinki, Finland / Barcelona, Spain</p>
 
 <p align="center">
   <a href="mailto:vitalilund@gmail.com">
@@ -16,6 +15,10 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/vitalilund/">
     <img src="https://img.shields.io/badge/LinkedIn-Vitali%20Lund-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/lundaevv/">
+    <img src="https://img.shields.io/badge/Instagram-lundaevv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
