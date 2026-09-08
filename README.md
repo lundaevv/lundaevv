@@ -5,16 +5,17 @@
 <h1 align="center">Hi, I'm Vitali Lund</h1>
 
 <p align="center">
-  <b>Backend-oriented Software Developer</b><br/>
-  Helsinki, Finland
+  <b>Backend Developer</b><br/>
+  Helsinki, Finland &nbsp;·&nbsp; Barcelona, Spain
 </p>
 
 <p align="center">
   <a href="mailto:vitalilund@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vitalilund%40gmail.com-blue?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/-vitalilund@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/vitalilund/">
-    <img src="https://img.shields.io/badge/LinkedIn-Vitali%20Lund-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/-Vitali%20Lund-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -22,9 +23,11 @@
 
 ### About me
 
-Backend developer with low-level foundations from Hive Helsinki (42 Network) and a prior research background in sustainability and energy transition. I build backend systems with Python and TypeScript/JavaScript, and enjoy working close to the metal with C and C++.
+My background is unconventional — I've moved countries, changed careers, and rebuilt myself in a completely new field. That means I adapt fast, learn fast, and I'm not afraid of starting from zero.
 
-I care about code that is readable, systems that are predictable, and APIs that do exactly what they say they do.
+I'm people-oriented: I connect with others quickly, bring positive energy into a team, and genuinely enjoy collaboration. I have a strong sense of humour, but I also know when to stay focused. People feel comfortable working with me — both professionally and on a human level.
+
+Currently building backend systems with Python and TypeScript, with low-level foundations in C/C++ from [Hive Helsinki (42 Network)](https://www.hive.fi/). Before that: sustainability research, multiple publications, a different life.
 
 ---
 
@@ -50,19 +53,12 @@ I care about code that is readable, systems that are predictable, and APIs that 
 
 ---
 
-### Currently focused on
+### Outside of code
 
-- Backend engineering with Python and TypeScript
-- Low-level systems and network programming in C/C++
-- REST APIs and database-backed applications
-- Linux and shell workflows
+Sport · snowboard · food · travel — usually all four at once.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lundaevv&theme=tokyonight&background=00000000" />
-</p>
-
-<p align="center">
-  <img alt="lundaevv's visitors" src="https://komarev.com/ghpvc/?username=lundaevv&color=blue&style=flat&label=visitors" />
+  <img alt="visitors" src="https://komarev.com/ghpvc/?username=lundaevv&color=blue&style=flat&label=visitors" />
 </p>
